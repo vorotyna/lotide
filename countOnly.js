@@ -9,6 +9,12 @@ const assertEqual = function(actual, expected) {
 
 // ACTUAL FUNCTION
 const countOnly = function(allItems, itemsToCount) {
+  const results = {};
+
+  for (const item of allItems) {
+    console.log(item);
+  }
+  return results;
 };
 
 // TEST CASE
