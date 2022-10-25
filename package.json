@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@alisav_7/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "Useful methods for javascript",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/vorotyna/lotide.git"
   },
-  "author": "",
+  "author": "Alisa Vorotyntseva",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vorotyna/lotide/issues"
