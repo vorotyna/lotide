@@ -9,6 +9,3 @@ describe("#assertArraysEqual", () => {
     assert.strictEqual(eqArrays(arr1, arr2), true);
   });
 });
-
-
-
